@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Front-End,Back-end,a11y**
 
-- 👨‍💻 All of my projects are available at [https://bayathy.com](https://bayathy.com)
-
-- 📝 I regularly write articles on [https://blog.bayathy.com/](https://blog.bayathy.com/)
+- 👨‍💻 All of my projects are available at [https://me.bayathy.dev](https://me.bayathy.dev)
 
 - 💬 Ask me about **React**
 
